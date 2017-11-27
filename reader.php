@@ -183,7 +183,9 @@ function main()
                                             }                                                                                        
                                             
                                             return $sub;
-                                        })                                        
+                                        }),
+                                        "ignore_in_pay_calculation" => false,
+                                        "is_both_scatter_and_regular_pay" => false
                                     );
                                 }
                                                                 
