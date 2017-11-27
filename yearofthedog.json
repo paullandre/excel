@@ -1,0 +1,1818 @@
+{
+    "the_game": {
+        "version": 1,
+        "genesis_id": "YEAR_OF_THE_DOG_BASE",
+        "description": null,
+        "configured_rtp": 95.167,
+        "game_state_collect_key": null,
+        "depth": 0,
+        "requires_signing": false,
+        "keeps_state": false,
+        "config": {
+            "win_line": 1,
+            "all_pays_bet_base": 1,
+            "wild_multiplier": 1,
+            "bet_multipliers": {
+                "1": 1
+            },
+            "wilds": [
+                "WILD"
+            ],
+            "scatters": [
+                "SCATTER"
+            ],
+            "default_bet": 0,
+            "min_lines_per_bet": 1,
+            "coin_sizes": [
+                1
+            ],
+            "default_coin_size": 1,
+            "allowed_multipliers": [],
+            "allowed_coin_sizes": []
+        },
+        "points_config": null,
+        "game_type": 4,
+        "reels": {
+            "rows": 4,
+            "columns": 5,
+            "has_composite_symbols": false,
+            "irregular_reels": false,
+            "reels": [
+                {
+                    "is_independant": false,
+                    "number": 1,
+                    "irregular_rows": 0,
+                    "elements": [
+                        {
+                            "position": 1,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 2,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 3,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 4,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 5,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 6,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 7,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 8,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 9,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 10,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 11,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 12,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 13,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 14,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 15,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 16,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 17,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 18,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 19,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 20,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 21,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 22,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 23,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 24,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 25,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 26,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 27,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 28,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 29,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 30,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 31,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 32,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 33,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 34,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 35,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 36,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 37,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 38,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 39,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 40,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 41,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 42,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 43,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 44,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 45,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 46,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 47,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 48,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 49,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 50,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 51,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 52,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 53,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 54,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 55,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 56,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 57,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 58,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 59,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 60,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 61,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 62,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 63,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 64,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 65,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 66,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 67,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 68,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 69,
+                            "symbol": "A"
+                        }
+                    ]
+                },
+                {
+                    "is_independant": false,
+                    "number": 2,
+                    "irregular_rows": 0,
+                    "elements": [
+                        {
+                            "position": 1,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 2,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 3,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 4,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 5,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 6,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 7,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 8,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 9,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 10,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 11,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 12,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 13,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 14,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 15,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 16,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 17,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 18,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 19,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 20,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 21,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 22,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 23,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 24,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 25,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 26,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 27,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 28,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 29,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 30,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 31,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 32,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 33,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 34,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 35,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 36,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 37,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 38,
+                            "symbol": "WILD"
+                        },
+                        {
+                            "position": 39,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 40,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 41,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 42,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 43,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 44,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 45,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 46,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 47,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 48,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 49,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 50,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 51,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 52,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 53,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 54,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 55,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 56,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 57,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 58,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 59,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 60,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 61,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 62,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 63,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 64,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 65,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 66,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 67,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 68,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 69,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 70,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 71,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 72,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 73,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 74,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 75,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 76,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 77,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 78,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 79,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 80,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 81,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 82,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 83,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 84,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 85,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 86,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 87,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 88,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 89,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 90,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 91,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 92,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 93,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 94,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 95,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 96,
+                            "symbol": "K"
+                        }
+                    ]
+                },
+                {
+                    "is_independant": false,
+                    "number": 3,
+                    "irregular_rows": 0,
+                    "elements": [
+                        {
+                            "position": 1,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 2,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 3,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 4,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 5,
+                            "symbol": "WILD"
+                        },
+                        {
+                            "position": 6,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 7,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 8,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 9,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 10,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 11,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 12,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 13,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 14,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 15,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 16,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 17,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 18,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 19,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 20,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 21,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 22,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 23,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 24,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 25,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 26,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 27,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 28,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 29,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 30,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 31,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 32,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 33,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 34,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 35,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 36,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 37,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 38,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 39,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 40,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 41,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 42,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 43,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 44,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 45,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 46,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 47,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 48,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 49,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 50,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 51,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 52,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 53,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 54,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 55,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 56,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 57,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 58,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 59,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 60,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 61,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 62,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 63,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 64,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 65,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 66,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 67,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 68,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 69,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 70,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 71,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 72,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 73,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 74,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 75,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 76,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 77,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 78,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 79,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 80,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 81,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 82,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 83,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 84,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 85,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 86,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 87,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 88,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 89,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 90,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 91,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 92,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 93,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 94,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 95,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 96,
+                            "symbol": "PIC2"
+                        }
+                    ]
+                },
+                {
+                    "is_independant": false,
+                    "number": 4,
+                    "irregular_rows": 0,
+                    "elements": [
+                        {
+                            "position": 1,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 2,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 3,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 4,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 5,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 6,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 7,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 8,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 9,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 10,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 11,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 12,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 13,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 14,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 15,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 16,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 17,
+                            "symbol": "WILD"
+                        },
+                        {
+                            "position": 18,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 19,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 20,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 21,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 22,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 23,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 24,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 25,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 26,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 27,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 28,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 29,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 30,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 31,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 32,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 33,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 34,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 35,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 36,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 37,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 38,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 39,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 40,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 41,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 42,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 43,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 44,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 45,
+                            "symbol": "WILD"
+                        },
+                        {
+                            "position": 46,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 47,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 48,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 49,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 50,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 51,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 52,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 53,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 54,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 55,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 56,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 57,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 58,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 59,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 60,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 61,
+                            "symbol": "N"
+                        }
+                    ]
+                },
+                {
+                    "is_independant": false,
+                    "number": 5,
+                    "irregular_rows": 0,
+                    "elements": [
+                        {
+                            "position": 1,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 2,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 3,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 4,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 5,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 6,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 7,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 8,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 9,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 10,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 11,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 12,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 13,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 14,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 15,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 16,
+                            "symbol": "Q"
+                        },
+                        {
+                            "position": 17,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 18,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 19,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 20,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 21,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 22,
+                            "symbol": "N"
+                        },
+                        {
+                            "position": 23,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 24,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 25,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 26,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 27,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 28,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 29,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 30,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 31,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 32,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 33,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 34,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 35,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 36,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 37,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 38,
+                            "symbol": "PIC2"
+                        },
+                        {
+                            "position": 39,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 40,
+                            "symbol": "K"
+                        },
+                        {
+                            "position": 41,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 42,
+                            "symbol": "SCATTER"
+                        },
+                        {
+                            "position": 43,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 44,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 45,
+                            "symbol": "J"
+                        },
+                        {
+                            "position": 46,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 47,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 48,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 49,
+                            "symbol": "PIC3"
+                        },
+                        {
+                            "position": 50,
+                            "symbol": "T"
+                        },
+                        {
+                            "position": 51,
+                            "symbol": "A"
+                        },
+                        {
+                            "position": 52,
+                            "symbol": "PIC4"
+                        },
+                        {
+                            "position": 53,
+                            "symbol": "PIC1"
+                        },
+                        {
+                            "position": 54,
+                            "symbol": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "lines": null,
+        "pay_table": {
+            "entries": [
+                {
+                    "symbol": "PIC1",
+                    "pay_table": [
+                        {
+                            "of_akind": 2,
+                            "prize": 20
+                        },
+                        {
+                            "of_akind": 3,
+                            "prize": 100
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 200
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 300
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "PIC2",
+                    "pay_table": [
+                        {
+                            "of_akind": 2,
+                            "prize": 10
+                        },
+                        {
+                            "of_akind": 3,
+                            "prize": 50
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 100
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 250
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "PIC3",
+                    "pay_table": [
+                        {
+                            "of_akind": 2,
+                            "prize": 5
+                        },
+                        {
+                            "of_akind": 3,
+                            "prize": 25
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 80
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 200
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "PIC4",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 25
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 80
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 150
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "A",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 20
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 50
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 120
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "K",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 20
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 50
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 120
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "Q",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 10
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 25
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 100
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "J",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 10
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 25
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 100
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "T",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 5
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 20
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 100
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "N",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 5
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 20
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 100
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                },
+                {
+                    "symbol": "SCATTER",
+                    "pay_table": [
+                        {
+                            "of_akind": 3,
+                            "prize": 80
+                        },
+                        {
+                            "of_akind": 4,
+                            "prize": 400
+                        },
+                        {
+                            "of_akind": 5,
+                            "prize": 800
+                        }
+                    ],
+                    "ignore_in_pay_calculation": false,
+                    "is_both_scatter_and_regular_pay": false
+                }
+            ]
+        },
+        "triggers": {
+            "triggers": []
+        },
+        "features": {
+            "features": []
+        },
+        "game_only_runs_through_features": false
+    },
+    "plugin_classes": [],
+    "plugins": []
+}
