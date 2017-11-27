@@ -203,6 +203,7 @@ function main()
     fclose($write_file);
     
     die(print($json));
+    
 }
 
 main();
