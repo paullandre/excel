@@ -173,19 +173,18 @@ function main()
                                 for($i = 93; $i <= 103; $i++)
                                 {
                                     $fields[] = array("symbol" => $records[$i][2],
-                                        "pay_table" => [array(call_user_func(function()use($records)
-                                        {
-                                            $e = array();
-                                            for($x = 7; $x <= 3; $x--)
-                                            {
-                                                $e[] = array("of_akind" => $records[91][$x],
-                                                    "prize" => $records[$i][$x]);
-                                            }
+                                        "pay_table" => call_user_func(function()use($records)
+                                        {                                                           
+                                            $sub = array();
+                                            for($x = 7; $x >= 3; $x--)
+                                            {                                                                                             
+                                                $sub[] = array("of_akind" => $records[91][$x],
+                                                    "prize" => $records[93][$x]);
+                                            }                                                                                        
                                             
-                                            return $e;
-                                        })
-                                        )
-                                    ]);
+                                            return $sub;
+                                        })                                        
+                                    );
                                 }
                                                                 
                                 return $fields;
